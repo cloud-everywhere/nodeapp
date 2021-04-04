@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn to Deploy Node, Express & React App to Azure App Service
         </a>
       </header>
     </div>
