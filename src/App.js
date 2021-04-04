@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+        Just add Git Deployment Option to App Service
           Edit <code>src/App.js</code>, Save, Commit & Push to Git Repo to re-deploy
         </p>
         <a
