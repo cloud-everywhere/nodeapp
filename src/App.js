@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Azure Hands-On</h1>
+        <h2>React App with Node, running in Azure App Service</h2>
       </header>
     </div>
   );
